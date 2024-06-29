@@ -1,0 +1,25 @@
+body{
+  background-color:#eaf6f6;
+  background-image: D:\atom\html-personal-site\VideoCapture_20240524-114740.jpg;
+  background-size: 20%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+hr{
+  background-color: #eaf6f6;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  color:#66bfbf;
+}
+h3{
+  color: #66bfbf;
+}
+div{
+  background-color: yellow;
+  font-family:Bauhaus 93;
+}
